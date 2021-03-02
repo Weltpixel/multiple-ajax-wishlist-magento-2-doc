@@ -1,13 +1,13 @@
-<h1><a href="https://www.weltpixel.com/magento-2-multiple-ajax-wishlist-and-share-extension.html">Magento 2 Multiple Ajax Wishlist & Share Extension by Weltpixel.</a></h1>
+<h1><a href="https://www.weltpixel.com/magento-2-multiple-ajax-wishlist-and-share-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Multiple Ajax Wishlist & Share Extension by Weltpixel.</a></h1>
 <br/><br/>
 <table>
  <tr>
   <td width="30%" valign="center" style="
     border: none;
-"><br><a href="https://www.weltpixel.com/magento-2-multiple-ajax-wishlist-and-share-extension.html"><img src="https://www.weltpixel.com/media/catalog/product/1/3/13._multiple_ajax_wishlist_and_share_extension_2_1.png" alt="Multiple Ajax Wishlist & Share Extension"></a>
-<br><a href="https://www.weltpixel.com"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
+"><br><a href="https://www.weltpixel.com/magento-2-multiple-ajax-wishlist-and-share-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/catalog/product/1/3/13._multiple_ajax_wishlist_and_share_extension_2_1.png" alt="Multiple Ajax Wishlist & Share Extension"></a>
+<br><a href="https://www.weltpixel.com?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs"><img src="https://www.weltpixel.com/media/wysiwyg/weltpixel_1000x1000.png" alt="WeltPixel Logo"></a></td>
   <td style="border:none;"><br>
-  	<h1>ABOUT THE MAGENTO 2 MULTIPLE AJAX WISHLIST AND SHARE EXTENSION.</h1>
+    <h1>ABOUT THE MAGENTO 2 MULTIPLE AJAX WISHLIST AND SHARE EXTENSION.</h1>
 <ul>
 <p>
  Help your customers better organize their future purchases with our Magento 2 Wishlist Extension. By allowing them to compile lists of products into multiple wishlists, you increase their chances of converting!
@@ -28,8 +28,8 @@ The Magento 2 Ajax Wishlist dramatically improves your customer’s experience b
 Help get your customers from the wishlist to the shopping cart. Automatically notify them of any upcoming price drops, discounts, or promotions on their selected products. You already know they’re interested, and this could be the final step towards converting them!
  </p>
 </ul>
-                        <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-multiple-ajax-wishlist-and-share-extension.html">Magento 2 Multiple Ajax Wishlist & Share Extension by WeltPixel.</a></h3>
-                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl">Pearl Theme for Magento 2.</a></h3>
+                        <h3>Download Here: <a href="https://www.weltpixel.com/magento-2-multiple-ajax-wishlist-and-share-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Multiple Ajax Wishlist & Share Extension by WeltPixel.</a></h3>
+                        <h3>Included in the <a href="https://www.weltpixel.com/magento-2-theme-pearl?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Pearl Theme for Magento 2.</a></h3>
    </div></td>
  </tr>
 </table>
@@ -112,7 +112,7 @@ Help get your customers from the wishlist to the shopping cart. Automatically no
                  <p> If you experienced any issues or limitations with this quick GUI installation, see also SSH Installation below. SSH installation does the same thing but you are required to issue the commands step by step via CLI. Some servers may have high security configurations and may limit the functionality of this GUI Installer.
                  </ul>
                  <p>
-                 	<embed src="https://player.vimeo.com/video/339572179" autostart="false" height="500" width="900" />
+                  <embed src="https://player.vimeo.com/video/339572179" autostart="false" height="500" width="900" />
 </p>
  </div>
 </td>
@@ -196,8 +196,8 @@ Help get your customers from the wishlist to the shopping cart. Automatically no
                         </ul> 
                         <h1>Magento Marketplace Installation.</h1>
                             <ul>
-                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
-                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
+                                <li>If the extension was purchased from the Magento Marketplace, follow the instructions in this article: <a href="https://support.weltpixel.com/hc/en-us/articles/115004328687-How-to-install-extension-if-purchased-from-Magento-Marketplace?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">How to install extension if purchased from the Magento Marketplace</a></li>
+                                <li>If asked for a license, follow the steps presented in section 7 of this article: <a href="https://support.weltpixel.com/hc/en-us/articles/360006697594-License-key-for-local-staging-development-environment-Multi-store-licensing-?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs" target="_blank">License key for local / staging / development environment. Multi-store licensing. </a></li></ul>
                                                                 <tr>
   <td width="100%">
       <div class="col-md-6">
@@ -247,7 +247,7 @@ This will enable the Wishlist Share buttons to show up on the Wishlist page.
 </li>
 <p>
 <strong>Note:</strong> You'll need a Javascript code from Sharethis in order to enable the buttons. To get the code, follow the steps presented in the panels below.
-	</p>
+  </p>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/wishlist/a7-min.png"></p>
 </div>
@@ -309,10 +309,10 @@ Press on the green "Get Share Buttons" button.
 This will enable the Price Alert functionality, which notifies the customer via email when the price of an item in their Wishlist goes down.
 </li>
 <p>
-<strong>Note:</strong> In order for this feature to work, you'll need to have a cronjob configured on the server, and specify a valid cron schedule expression in the	</p>
+<strong>Note:</strong> In order for this feature to work, you'll need to have a cronjob configured on the server, and specify a valid cron schedule expression in the </p>
 <p>
 <strong>Cron job Frequency</strong> box. You can verify the schedule expression <a href="https://crontab.guru/">here</a>.
-	</p>
+  </p>
 </ul>
 <p><img src="https://www.weltpixel.com/media/wysiwyg/wishlist/a4-min.png"></p>
 </div>
@@ -332,7 +332,7 @@ For each specific Wishlist, your customers will be able to disable Share Options
 <strong>WeltPixel > Multiple Ajax Wishlist Settings > Enable Share Wishlist</strong>.
 </p>
 <ul>
-	<p>
+  <p>
 Note: If the Share Wishlist functionality is disabled, the Share buttons will be removed, and the people customers have already shared the wishlist with will no longer have access to it.
 </p>
 </ul>
@@ -359,4 +359,4 @@ How your customers can make use of this functionality:
   </td>
  </tr>
 </table>
- <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-multiple-ajax-wishlist-and-share-extension.html">Magento 2 Multiple Ajax Wishlist & Share Extension by WeltPixel.</a></h3>
+ <h3>Download it now! <a href="https://www.weltpixel.com/magento-2-multiple-ajax-wishlist-and-share-extension.html?utm_source=GitHub&utm_medium=Docmentation&utm_campaign=Git_Docs">Magento 2 Multiple Ajax Wishlist & Share Extension by WeltPixel.</a></h3>
